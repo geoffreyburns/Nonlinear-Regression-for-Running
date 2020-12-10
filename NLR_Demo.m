@@ -33,7 +33,7 @@
 % This is not necessary, but it may be a good way of standardizing initial conditions so as not to bias the results.
 % The Leg code (0 = L, 1 = R) is included here for reference
 
-load 'NLR_demo_dat.mat'
+load 'NLR_demo_data.mat'
 
 %% Generate Starting Values
 % As mentioned above, we would recommend standardizing the starting values for the NLR
